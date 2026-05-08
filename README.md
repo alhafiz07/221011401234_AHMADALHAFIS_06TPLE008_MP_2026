@@ -77,7 +77,7 @@ Terlalu banyak warna dapat membuat pengguna tidak fokus dan tampilan terlihat ti
 
 ## Screenshot Aplikasi
 
-Tambahkan screenshot hasil aplikasi di sini.
+<img src="https://github.com/user-attachments/assets/dba992d4-f958-45b0-9b76-a3971a25102e" width="600"/>
 
 ## Cara Menjalankan Project
 
